@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vctrtello1
-- 👀 I’m interested in ... Microservices and Blockchain
-- 🌱 I’m currently learning ... Java EE
+- 👀 I’m interested in ... Microservices and Cloud
+- 🌱 I’m currently learning ... Flutter
 - 💞️ I’m looking to collaborate on ... my repos
 - 📫 How to reach me ... in my email
 
